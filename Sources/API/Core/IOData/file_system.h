@@ -3,7 +3,7 @@
 #include <memory>
 #include "file.h"
 
-namespace clan
+namespace cl
 {
 	/// \addtogroup clanCore_I_O_Data clanCore I/O Data
 	/// \{
