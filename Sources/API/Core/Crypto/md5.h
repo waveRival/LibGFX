@@ -2,7 +2,7 @@
 
 #include <memory>
 
-namespace clan
+namespace cl
 {
 	/// \addtogroup clanCore_Crypto clanCore Crypto
 	/// \{
