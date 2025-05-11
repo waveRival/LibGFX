@@ -4,7 +4,7 @@
 #include <string>
 #include <memory>
 
-namespace gfx
+namespace fx
 {
 	/// \addtogroup clanApp_System clanApp System
 	/// \{
