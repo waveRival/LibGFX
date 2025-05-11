@@ -1,52 +1,6 @@
-/*
-**  ClanLib SDK
-**  Copyright (c) 1997-2020 The ClanLib Team
-**
-**  This software is provided 'as-is', without any express or implied
-**  warranty.  In no event will the authors be held liable for any damages
-**  arising from the use of this software.
-**
-**  Permission is granted to anyone to use this software for any purpose,
-**  including commercial applications, and to alter it and redistribute it
-**  freely, subject to the following restrictions:
-**
-**  1. The origin of this software must not be misrepresented; you must not
-**     claim that you wrote the original software. If you use this software
-**     in a product, an acknowledgment in the product documentation would be
-**     appreciated but is not required.
-**  2. Altered source versions must be plainly marked as such, and must not be
-**     misrepresented as being the original software.
-**  3. This notice may not be removed or altered from any source distribution.
-**
-**  Note: Some of the libraries ClanLib may link to may have additional
-**  requirements or restrictions.
-**
-**  File Author(s):
-**
-**    Mark Page
-**    Michael J. Fromberger
-*/
-
-// This class is based on the original MPI library (not NSS, because of license restrictions) with some modifications.
-// Some ideas and algorithms are from NSS (Netscape Security Suite).  Where they have been used, the function contains a reference note
-//
-// Note, since September 2011, I believe the MPI homepage is now: http://spinning-yarns.org/michael/mpi/
-// The license is as follows
-// This software was written by Michael J. Fromberger,
-//   http://www.dartmouth.edu/~sting/
-//
-// See the MPI home page at
-//   http://www.dartmouth.edu/~sting/mpi/
-//
-// This software is in the public domain.  It is entirely free, and you
-// may use it and/or redistribute it for whatever purpose you choose;
-// however, as free software, it is provided without warranty of any
-// kind, not even the implied warranty of merchantability or fitness for
-// a particular purpose.
-
 #pragma once
 
-namespace clan
+namespace cl
 {
 	/// \addtogroup clanCore_Crypto clanCore Crypto
 	/// \{
