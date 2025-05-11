@@ -4,7 +4,7 @@
 #include <string>
 #include <memory>
 
-namespace fx
+namespace cl
 {
 	/// \addtogroup clanApp_System clanApp System
 	/// \{
